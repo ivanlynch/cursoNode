@@ -1,0 +1,19 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Curso Node 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanlynch/cursoNode.git"
+  },
+  "author": "Ivan Lynch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanlynch/cursoNode/issues"
+  },
+  "homepage": "https://github.com/ivanlynch/cursoNode#readme"
+}
